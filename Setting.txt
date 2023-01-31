@@ -1,7 +1,7 @@
 {
     "metamask_address": "",
     "metamask_private_key": "" ,
-
+    "contract_address":"",
     
     "GWEI_GAS": 8,
     "AmountBNB_ETH": 0.1,
