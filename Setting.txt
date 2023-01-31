@@ -1,0 +1,17 @@
+{
+    "metamask_address": "",
+    "metamask_private_key": "" ,
+
+    
+    "GWEI_GAS": 8,
+    "AmountBNB_ETH": 0.1,
+
+    "Slippage": 25,
+    
+    "MaxSellTax": 150,
+    "MaxBuyTax": 150,
+
+    "TakeProfit":100%,
+    "StopLoss":20%,
+    "CheckHoneyPot": true
+}
