@@ -29,34 +29,8 @@ Install
 Trailing-Stop-Loss:!
 ![68747470733a2f2f692e7974696d672e636f6d2f76692f645a4662302d6677714f6b2f6d617872657364656661756c742e6a7067](https://user-images.githubusercontent.com/123884886/215790388-9c426fa8-b915-4c38-99bd-140f9601df06.jpg)
 
-Changelog v1
-
-Recoded my uniswap bot to work with pancakeswap. This project was also made to fix bugs in the uniswap-bot, because the transaction fee's are so low.
-
-
-Current bugs
-
-Some tokens or trading amounts are not possible to trade with, due to this issue: ethereum/web3.py#1634 This is the error-message you get: "Python int too large to convert to C ssize_". If you get this error its best to exclude the token (which probably has a very low price per token) or trade with lower amounts.
-Sloppy dinamic design of GUI
-Sometimes lag when updating names or when starting the bot (0-10 seconds)
-More: Let me know!
-
-
-
-To do
-
-Let the amount of decimals and the token-name be derived automatically (like in the uniswap-bot)
-New, more user-friendly design
-Fix "Python int too large to convert to C ssize_"
-(Depends on whether the application is used)
-
 
 Author
 
 If you have any questions you can contact me via telegram: https://t.me/trading_supporters
-
-
-Disclosure
-
-I own some of the tokens portayed in the gif. These tokens are used only for example purposes and are not meant to be an endorsement. I am not affiliated with these tokens or any subsidiaries. Use the application at your own risk, I am not in any way responsible for losses.
 
