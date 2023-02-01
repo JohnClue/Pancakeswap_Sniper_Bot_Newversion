@@ -22,6 +22,9 @@ This Tool only buys/sells with/to BNB/ETH but use Multi Hops to get the best Out
 
 Install
 1. First of all, you need install Python 3.12 Version
+
+Link for download python: https://www.python.org/downloads/release/python-3120a1/
+
 2. Open "setting.txt" (with notepad for instance) and add your ethereum/bsc address and private key, contract address for snipping & config your bot.
 3. Run "launchbot.bat" OR type "py sniper.pyc"
 4. Waiting for profit !
