@@ -4,6 +4,9 @@ Web3 Pancakeswap Sniper bot written in python3. For Free
 ![Screenshot](https://user-images.githubusercontent.com/123884886/215787956-1f5413cf-1b61-49c7-8d6f-a2a409a63c62.png)
 ![10c3302b-12ef-45e6-abf5-c7096f88d03c](https://user-images.githubusercontent.com/123884886/215789983-fbb0f207-1698-4b88-b00c-c864f35e022c.png)
 
+You need to deposit at least 0.5 BNB or ETH for your wallet to execute correctly and complete the sniper bot. 
+The more you deposit, the more safe in the sniper bot. 
+
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
 ETH - 0x7F9e5Be3c7C28156E418F07F1f8E5B743cbE6F44
